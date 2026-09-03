@@ -53,14 +53,17 @@ Se desarrollaron tres versiones de una aplicación "Hola Mundo" utilizando difer
 ### A. Versión 1: Android Nativo con Views (XML)
 * **Descripción:** Aplicación construida usando el enfoque tradicional de Android, donde la interfaz se diseña en archivos XML y la lógica reside en clases Kotlin/Java.
 * **Cómo ejecutar:** Abrir la carpeta `hola_mundo_xml` en Android Studio, esperar la sincronización de Gradle, seleccionar el emulador y presionar el botón "Run" (Shift + F10).
+<img width="1919" height="1079" alt="Captura de pantalla 2026-09-03 054835" src="https://github.com/user-attachments/assets/cc71d340-0691-484b-a8e1-5f91a4a4cff9" />
 
 ### B. Versión 2: Android Nativo con Jetpack Compose
 * **Descripción:** Aplicación creada con el nuevo enfoque declarativo de Android. La interfaz se construye utilizando funciones puras de Kotlin (Composables) sin necesidad de XML.
 * **Cómo ejecutar:** Abrir la carpeta `hola_mundo_compose` en Android Studio, sincronizar Gradle y ejecutar en el emulador.
+<img width="1919" height="1078" alt="Captura de pantalla 2026-09-03 054617" src="https://github.com/user-attachments/assets/20b55406-5b35-40e9-883a-9dc35d7c213a" />
 
 ### C. Versión 3: Flutter
 * **Descripción:** Aplicación construida con el SDK de Flutter y el lenguaje Dart, estructurada a través de un árbol de Widgets.
 * **Cómo ejecutar:** Abrir una terminal en la carpeta `hola_mundo_flutter`, ejecutar `flutter pub get` para descargar dependencias y luego `flutter run` teniendo el emulador abierto.
+<img width="1919" height="1079" alt="Captura de pantalla 2026-09-03 063814" src="https://github.com/user-attachments/assets/4120cc87-32d9-4fc6-97e5-c5e3892e6581" />
 
 ## 3. Dificultades Encontradas y Soluciones
 
