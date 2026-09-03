@@ -37,14 +37,15 @@ VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.] | [Windows 11] |
 | **Docker** | [Docker version 29.7.2] | [Windows 11] |
 
 ### Capturas del proceso de configuración
+<img width="697" height="94" alt="Captura de pantalla 2026-09-03 064351" src="https://github.com/user-attachments/assets/e2e6bc9d-ab63-48d3-af58-c3c851b94a3c" />
+<img width="869" height="134" alt="Captura de pantalla 2026-09-03 064420" src="https://github.com/user-attachments/assets/c497278b-baa6-453b-bc0f-ff5fb6ba2873" />
+<img width="265" height="50" alt="Captura de pantalla 2026-09-03 065118" src="https://github.com/user-attachments/assets/2f2988ff-bf28-4d54-bd27-8c69f2d04350" />
+<img width="902" height="222" alt="Captura de pantalla 2026-09-03 064541" src="https://github.com/user-attachments/assets/8672440e-88e5-4569-982c-547f41387750" />
+<img width="214" height="51" alt="Captura de pantalla 2026-09-03 064555" src="https://github.com/user-attachments/assets/f1384369-71a2-4a5c-8a46-875878910e58" />
+<img width="352" height="48" alt="Captura de pantalla 2026-09-03 064607" src="https://github.com/user-attachments/assets/03d49660-e143-4423-b706-14872c0fe732" />
 
-|![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-6.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-7.png)
+## Emulador Hello Android
+<img width="1919" height="1079" alt="Captura de pantalla 2026-09-03 065443" src="https://github.com/user-attachments/assets/37ace817-0104-41d5-afed-8a1af87c4943" />
 
 ## 2. Proyectos Desarrollados y Ejecución
 
