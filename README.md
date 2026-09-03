@@ -44,7 +44,7 @@ A continuación, se describen las herramientas instaladas y el proceso realizado
 <img width="352" height="48" alt="Captura de pantalla 2026-09-03 064607" src="https://github.com/user-attachments/assets/03d49660-e143-4423-b706-14872c0fe732" />
 
 ## Emulador Hello Android
-<img width="1919" height="1079" alt="Captura de pantalla 2026-09-03 065443" src="https://github.com/user-attachments/assets/37ace817-0104-41d5-afed-8a1af87c4943" />
+<img width="1917" height="967" alt="Captura de pantalla 2026-09-03 134423" src="https://github.com/user-attachments/assets/869a4700-9e4f-4a2b-95a6-016a7360d780" />
 
 ## 2. Proyectos Desarrollados y Ejecución
 
