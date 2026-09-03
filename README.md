@@ -27,8 +27,7 @@ A continuación, se describen las herramientas instaladas y el proceso realizado
 
 | Herramienta | Versión Instalada | Sistema Operativo |
 | :--- | :--- | :--- |
-| **Android Studio** | [25.0.2+-15348964-b329.117 amd64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.] | [Windows 11] |
+| **Android Studio** | [25.0.2+-15348964-b329.117] | [Windows 11] |
 | **JDK (Amazon Corretto)** | [javac 26.0.2.1+1-7] | [Windows 11] |
 | **Maven** | [Apache Maven 3.9.16 ] | [Windows 11] |
 | **Git** | [git version 2.55.0.windows.5] | [Windows 11] |
